@@ -1,7 +1,6 @@
 <h1>Hi 👋<br>I'm Mick</h1>
 <br>
 <p>
-    <span>-----BEGIN OPENSSH PRIVATE KEY-----</span>
     <br>
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mickzeller&show_icons=true&theme=dark&locale=en&layout=compact"
@@ -9,8 +8,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickzeller&theme=dark"
         alt="mickzeller"/></p>
-<br>
-<span>-----END OPENSSH PRIVATE KEY-----</span>
 </p>
 <br>
 
