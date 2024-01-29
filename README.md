@@ -2,20 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=500&color=FF9900&multiline=true&repeat=false&random=false&width=450&height=100&lines=Hi+%F0%9F%91%8B+;I'm+Mick+Zeller.;+++" alt="Typing SVG" /></a>
 </h1>
 <br>
-
-
 <p>
-<p>
-    <img align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=mickzeller&show_icons=true&theme=dark&locale=en&layout=compact"
-         alt="mickzeller"/>
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickzeller&theme=dark"
-         alt="mickzeller"/>
-</p>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
