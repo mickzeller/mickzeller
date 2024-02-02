@@ -6,11 +6,9 @@
         />
     </a>
 </div>
-<div>
-    <h3>Contact me</h3>
-</div>
- <div style="display: flex">
-    <div style="margin-right: 7px">
+<h3  style="margin-top: -2px">Contact me</h3>
+ <div style="display: flex !important">
+    <div>
          <span>
              <a href="https://linkedin.com/in/mickzeller" target="blank">
                  <img align="center"
@@ -19,17 +17,9 @@
              </a>
          </span>
      </div>
-    <div>
-          <span>
-              <a href="https://kaggle.com/mickzeller" target="blank">
-                  <img align="center"
-                       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-                       alt="mickzeller" height="30" width="40"/>
-              </a>
-          </span>
-     </div>
  </div>
- <div>
+ </br>
+ <div>     
      <p align="left">
          <img
                  src="https://komarev.com/ghpvc/?username=mickzeller&label=The%20Golden%20Tally&color=dbe000&style=flat"
